@@ -1,0 +1,12 @@
+body{
+    background-color: mediumblue;
+}
+
+h1,p{
+    color:white;
+    margin-left: 2 px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color:white;
+}
